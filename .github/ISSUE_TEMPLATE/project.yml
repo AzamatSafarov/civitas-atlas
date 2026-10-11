@@ -1,0 +1,38 @@
+name: Add a community
+description: Submit a project for editorial review
+title: "[Project] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: input
+    id: official
+    attributes:
+      label: Official website URL
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Original description and location
+      description: State whether physical, planned, historical or virtual. Do not copy third-party prose.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source URLs and evidence
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights and privacy
+      options:
+        - label: I can license my original submission under CC BY 4.0 with attribution to my GitHub account; third-party materials are excluded unless separately licensed.
+          required: true
+        - label: I have not included private data or secrets, and understand that this submission is public and subject to review.
+          required: true

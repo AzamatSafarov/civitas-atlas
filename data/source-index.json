@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "0asis",
+    "name": "0ASIS",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "4seas-io",
+    "name": "4seas.io",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet",
+      "https://ns.com/dashboard/4seas"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "afropolitan",
+    "name": "Afropolitan",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/afropolitan"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "akiya-collective",
+    "name": "Akiya Collective",
+    "sourceURLs": [
+      "https://ns.com/dashboard/akiya-collective"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "aleph-3",
+    "name": "Aleph 3",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "aleph-citadel",
+    "name": "Aleph Citadel",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "amagi-life",
+    "name": "Amagi Life",
+    "sourceURLs": [
+      "https://ns.com/dashboard/amagi-life"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "anothernation",
+    "name": "AnotherNation",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "arkpad",
+    "name": "ArkPad",
+    "sourceURLs": [
+      "https://ns.com/dashboard/arkpad"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "asgardia",
+    "name": "Asgardia",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "atlas-island",
+    "name": "Atlas Island",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "auravana",
+    "name": "Auravana",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "auroville",
+    "name": "Auroville",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/auroville"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "avalon",
+    "name": "Avalon",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "bitcoin-learning-center",
+    "name": "Bitcoin Learning Center",
+    "sourceURLs": [
+      "https://ns.com/dashboard/bitcoin-learning-center"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "black-sky-society",
+    "name": "Black Sky Society",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "bloom-city",
+    "name": "Bloom City",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "blue-frontier",
+    "name": "Blue Frontier",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/blue-frontier"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "build-republic",
+    "name": "build_republic",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "cabin",
+    "name": "Cabin",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/cabin"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "cafe-cursor",
+    "name": "Cafe Cursor",
+    "sourceURLs": [
+      "https://ns.com/dashboard/cafe-cursor"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "catawba-digital-economic-zone",
+    "name": "Catawba Digital Economic Zone",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/catawba-digital-economic-zone"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "city-of-atlantus",
+    "name": "City of Atlantus",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "city-of-telosa",
+    "name": "City of Telosa",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/city-of-telosa"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "citydao",
+    "name": "CityDAO",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/citydao"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "ciudad-morazan",
+    "name": "Ciudad Morazán",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/ciudad-morazan",
+      "https://ns.com/dashboard/ciudad-morazan"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "closer",
+    "name": "Closer",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/closer"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "coco",
+    "name": "CoCo",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/cohere"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "common-ground",
+    "name": "Common Ground",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/common-ground"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "commons-hub",
+    "name": "Commons Hub",
+    "sourceURLs": [
+      "https://ns.com/dashboard/commons-hub"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "corenexus",
+    "name": "CoreNexus",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "crecimiento",
+    "name": "Crecimiento",
+    "sourceURLs": [
+      "https://ns.com/dashboard/crecimiento"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "cryptocity",
+    "name": "Cryptocity",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "culdesac",
+    "name": "Culdesac",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/culdesac",
+      "https://ns.com/dashboard/culdesac"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "damanhur",
+    "name": "Damanhur",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/damanhur"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "dancing-rabbit",
+    "name": "Dancing Rabbit Ecovillage",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/dancing-rabbit"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "dont-die",
+    "name": "Don't Die",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/dont-die"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "draper-nation",
+    "name": "Draper Nation",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "dunia-cyber-city",
+    "name": "Dunia Cyber City",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/dunia-cyber-city"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "edge-city",
+    "name": "Edge City",
+    "sourceURLs": [
+      "https://ns.com/dashboard/edge-city"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "edge-esmeralda",
+    "name": "Edge Esmeralda",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/edge-esmeralda"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "eleutheria",
+    "name": "Eleutheria",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "embassy-network",
+    "name": "Embassy Network",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/embassy-network"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "epoch-island",
+    "name": "Epoch Island",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "figment",
+    "name": "Figment",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "findhorn",
+    "name": "Findhorn Ecovillage",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/findhorn"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "forma",
+    "name": "Forma",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/forma",
+      "https://ns.com/dashboard/forma-city"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "fractally",
+    "name": "Fractally",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "penadexo",
+    "name": "Free Commune of Peñadexo",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/penadexo"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "free-gallaecia",
+    "name": "Free Gallaecia",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "free-madeira",
+    "name": "FREE Madeira",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/free-madeira"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "free-republic-of-verdis",
+    "name": "Free Republic of Verdis",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "free-state-project",
+    "name": "Free State Project",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/free-state-project"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "freedom-haven",
+    "name": "Freedom Haven",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "freeth-m",
+    "name": "Freeth'm",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "christiania",
+    "name": "Freetown Christiania",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/christiania"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "frontier-tower",
+    "name": "Frontier Tower",
+    "sourceURLs": [
+      "https://ns.com/dashboard/frontier-tower"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zuberlin",
+    "name": "Futura Camp (ZuBerlin)",
+    "sourceURLs": [
+      "https://ns.com/dashboard/zuberlin"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "future-state",
+    "name": "Future state",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "gelephu-mindfulness-city",
+    "name": "Gelephu Mindfulness City",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/gelephu-mindfulness-city",
+      "https://ns.com/dashboard/gmc"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "hrg",
+    "name": "Hacker Residency Group",
+    "sourceURLs": [
+      "https://ns.com/dashboard/hrg"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "illuminateddao",
+    "name": "IlluminatedDAO",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "immortalis",
+    "name": "Immortalis",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "infinita",
+    "name": "Infinita",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/infinita",
+      "https://ns.com/dashboard/infinita"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "internet-nation",
+    "name": "Internet Nation",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "ipe-city",
+    "name": "Ipê City",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet",
+      "https://ns.com/dashboard/ipe-city"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "isla-de-lobos",
+    "name": "Isla de LOBOS",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "itana",
+    "name": "Itana by Talent Cities",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/itana"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "joseon",
+    "name": "Joseon",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "jur",
+    "name": "Jur",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "kift",
+    "name": "Kift",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/kift"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "kleros",
+    "name": "Kleros",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "kong-land",
+    "name": "KONG Land",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "konza-technopolis",
+    "name": "Konza Technopolis",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/konza-technopolis"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "league-of-free-cities",
+    "name": "League of Free Cities",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "liberland",
+    "name": "Liberland",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/liberland"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "liberstad",
+    "name": "Liberstad",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/liberstad"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "loci",
+    "name": "Loci",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "logos",
+    "name": "Logos",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/logos"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "lumina",
+    "name": "Lumina",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "metastate",
+    "name": "Metastate",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "metropolis-global",
+    "name": "Metropolis Global",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "montelibero",
+    "name": "Montelibero",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/montelibero"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "moondao",
+    "name": "MoonDAO",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/moondao"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "mtndao",
+    "name": "mtndao",
+    "sourceURLs": [
+      "https://ns.com/dashboard/mtndao"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "nation3",
+    "name": "Nation3",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/nation3"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "neom-the-line",
+    "name": "NEOM / The Line",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/neom-the-line"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "network-school",
+    "name": "Network School",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/network-school",
+      "https://ns.com/dashboard/network-school"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "network-state-genesis",
+    "name": "Network State Genesis",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "netx-state",
+    "name": "Netx State",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "next-gen-village",
+    "name": "Next Gen Village",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "noma-collective",
+    "name": "Noma Collective",
+    "sourceURLs": [
+      "https://ns.com/dashboard/noma-collective"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "nomad-nation",
+    "name": "Nomad Nation",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet",
+      "https://ns.com/dashboard/nomad"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "oceanix",
+    "name": "Oceanix",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "our-world",
+    "name": "Our World ",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "palestra",
+    "name": "Palestra",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "panarmenian",
+    "name": "Panarmenian",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "pangea",
+    "name": "Pangea",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "plumia",
+    "name": "Plumia",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/plumia"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "pop-village",
+    "name": "Pop Village",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/pop-village"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "pop-up-city-asia",
+    "name": "Popup City Asia",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/pop-up-city-asia"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "porta-norte",
+    "name": "Porta Norte",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/porta-norte"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "praxis",
+    "name": "Praxis",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/praxis"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "principality-of-islandia",
+    "name": "Principality of Islandia",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "principato-di-seborga",
+    "name": "Principato di Seborga",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "proof-of-humanity",
+    "name": "Proof of Humanity",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "proto-town",
+    "name": "Proto-Town",
+    "sourceURLs": [
+      "https://ns.com/dashboard/proto-town"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "prospera",
+    "name": "Próspera",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/prospera",
+      "https://ns.com/dashboard/prospera"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "punk-armada",
+    "name": "PUNK Armada",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "radicalxchange",
+    "name": "RadicalxChange",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/radicalxchange"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "rns-id",
+    "name": "RNS.ID",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet",
+      "https://ns.com/dashboard/rns-id"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "sark",
+    "name": "Sark",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/sark"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "satoshi-island",
+    "name": "Satoshi Island",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/satoshi-island"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "sealand",
+    "name": "Sealand",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "shanhaiwoo",
+    "name": "ShanHaiWoo",
+    "sourceURLs": [
+      "https://ns.com/dashboard/shanhaiwoo"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "shegby",
+    "name": "Shegby",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "small-farm-cities",
+    "name": "Small Farm Cities Africa",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/small-farm-cities"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "sovs-xyz",
+    "name": "sovs.xyz",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "spectra",
+    "name": "Spectra Cities",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/spectra"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "sri-lanka-startup-zone",
+    "name": "Sri Lanka Startup Zone",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "starbase",
+    "name": "Starbase",
+    "sourceURLs": [
+      "https://ns.com/dashboard/starbase"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "stead",
+    "name": "Stead",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/stead"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "tamera",
+    "name": "Tamera",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/tamera"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "the-anthem-initiative",
+    "name": "The Anthem Initiative",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "the-assemblage",
+    "name": "The Assemblage",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "the-mu",
+    "name": "The Mu",
+    "sourceURLs": [
+      "https://ns.com/dashboard/the-mu"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "the-neighborhood",
+    "name": "The Neighborhood",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "the-spacers-guild",
+    "name": "The Spacers Guild",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "traditional-dream-factory",
+    "name": "Traditional Dream Factory",
+    "sourceURLs": [
+      "https://ns.com/dashboard/traditional-dream-factory"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "twin-oaks",
+    "name": "Twin Oaks",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/twin-oaks"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "union-x-city",
+    "name": "Union X City",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "urbit",
+    "name": "Urbit",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/urbit"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "uzupis",
+    "name": "Užupis",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "vdao",
+    "name": "VDAO",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "vibe-camp",
+    "name": "Vibe Camp",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet",
+      "https://ns.com/dashboard/vibecamp"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "vitadao",
+    "name": "VitaDAO",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/vitadao"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "vitalist-bay",
+    "name": "Vitalist Bay",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/vitalist-bay"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "viva-city",
+    "name": "Viva City",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/viva-city"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "w3st",
+    "name": "W3ST",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "wera-global",
+    "name": "WERA Global",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "world-community-network",
+    "name": "World Community Network",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "yourjustice",
+    "name": "YourJustice",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zanzalu",
+    "name": "Zanzalu",
+    "sourceURLs": [
+      "https://ns.com/dashboard/zanzalu"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zeta-house",
+    "name": "Zeta House",
+    "sourceURLs": [
+      "https://github.com/thenetworkstate/network-states-of-the-internet"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zu-grama",
+    "name": "Zu Grama",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/zu-grama",
+      "https://ns.com/dashboard/zu-grama"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zuafrique",
+    "name": "ZuAfrique",
+    "sourceURLs": [
+      "https://ns.com/dashboard/zuafrique"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zuitzerland",
+    "name": "Zuitzerland",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/zuitzerland",
+      "https://ns.com/dashboard/zuitzerland"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zujapan",
+    "name": "ZuJapan",
+    "sourceURLs": [
+      "https://ns.com/dashboard/zujapan"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zukas",
+    "name": "ZuKaş",
+    "sourceURLs": [
+      "https://ns.com/dashboard/zukas"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "zuzalu",
+    "name": "Zuzalu",
+    "sourceURLs": [
+      "https://networkstateatlas.com/community/zuzalu",
+      "https://ns.com/dashboard/zuzalu"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  },
+  {
+    "id": "arc-city",
+    "name": "Ârc",
+    "sourceURLs": [
+      "https://ns.com/dashboard/arc-city"
+    ],
+    "rightsStatus": "Upstream permissions unresolved; record is an index, not a grant of rights to source content"
+  }
+]

@@ -1,0 +1,6 @@
+__pycache__/
+.vercel/
+.env*
+media/
+vendor/
+combined-*.json
