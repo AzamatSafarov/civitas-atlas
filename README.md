@@ -25,7 +25,7 @@ Requirements: official source, clear location or explicit virtual status, source
 
 The frontend files preserve the current implementation. The full runtime corpus, image cache and third-party vendor assets are intentionally excluded; do not expect the live globe to run from this checkout alone. `python preview.py` runs a self-contained contribution portal at http://127.0.0.1:8850. This portal is separate from the full atlas.
 
-Validate submissions: `python scripts/validate_submissions.py`. GitHub CI validates JSON submissions; no production deployment is triggered.
+Validate submissions: `python scripts/validate_submissions.py`. GitHub CI is not enabled: the current GitHub authorization lacks the `workflow` scope. A workflow draft is retained locally; validation and publication are currently manual.
 
 ## Research method
 
