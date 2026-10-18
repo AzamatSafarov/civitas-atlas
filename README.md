@@ -1,36 +1,136 @@
+<div align="center">
+
+<img src="assets/readme-mark.svg" alt="CIVITAS ATLAS research mark" width="80">
+
 # CIVITAS ATLAS
 
-Independent research project on network communities, startup societies and emerging forms of governance, maintained by **Azamat Safarov**.
+**A research atlas of communities, experimental cities and emerging forms of governance.**
 
-**Website:** https://polis-network-atlas.vercel.app  
-**Contact / corrections / rights:** akutagavasora777@gmail.com
+[![Website](https://img.shields.io/badge/Website-Explore_the_atlas-546B4B?style=for-the-badge)](https://polis-network-atlas.vercel.app)
+[![Original code](https://img.shields.io/badge/Original_code-MIT-343F33?style=for-the-badge)](LICENSE)
+[![Contributions](https://img.shields.io/badge/Contributions-Reviewed-8A744D?style=for-the-badge)](CONTRIBUTING.md)
 
-## Scope
+[Explore](https://polis-network-atlas.vercel.app) - [Scope](#research-scope) - [Quick start](#quick-start) - [Contribute](#contributing) - [Русский](README.ru.md)
 
-The live research snapshot contains 152 merged project records. It is not a census of all network states or a list of recognized sovereign states. Claims, chronology and statistics remain attributable to sources and are not all independently verified.
+<img src="assets/readme-hero.svg" alt="CIVITAS ATLAS: communities, institutions and territory. Decorative network illustration, not plotted project locations." width="100%">
 
-## Open participation, not a blanket open-data claim
+</div>
 
-This repository opens our original frontend code, contribution rules and an index of source URLs. It does **not** grant rights to upstream databases, descriptions, photos, logos or social posts. Those materials are excluded from this repository while redistribution permissions remain unresolved. Public access to the website is not a data license.
+## Why this atlas
 
-New original community submissions are stored in `data/community-submissions.json`. Contributors agree to publish their original submission under CC BY 4.0, with their attribution. Do not submit material you do not have permission to license. MIT applies only to our original code.
+New communities and governance initiatives are scattered across directories, project websites and technical documents. CIVITAS ATLAS brings these sources into a searchable catalog and geographic interface for comparative research.
 
-## Add a project
+It covers **network-state projects, digital and intentional communities, experimental cities, special economic zones and micronations**. These are different institutional forms, not interchangeable kinds of sovereign state.
 
-[Open a project submission](https://github.com/AzamatSafarov/civitas-atlas/issues/new?template=project.yml) or fork the repository and edit `data/community-submissions.json`, then open a pull request. Submission does not guarantee inclusion; changes require editorial review. The repository is **not yet connected to automatic production deployment**.
+The project is curated by **Azamat Safarov**. The original contribution is source integration, duplicate review, classification, provenance, coordinate review and interface development. Original source authors retain credit for their texts and media.
 
-Requirements: official source, clear location or explicit virtual status, source-linked factual claims, author attribution and rights to submitted text/media. Do not include private personal data, secrets or identity documents. No advertising ranking or pay-for-inclusion scheme.
+## Explore
 
-## Development
+| Resource | What it provides |
+|---|---|
+| [Live atlas](https://polis-network-atlas.vercel.app) | Search, project profiles, a globe and a flat map |
+| [About the project](https://polis-network-atlas.vercel.app/about.html) | Purpose, sources, curation and limitations |
+| [For the press](https://polis-network-atlas.vercel.app/media.html) | A reusable project description and press contacts |
+| [CHRONOTOPE](https://civitas-chronotope.vercel.app) | A separate historical timeline for comparative research |
 
-The frontend files preserve the current implementation. The full runtime corpus, image cache and third-party vendor assets are intentionally excluded; do not expect the live globe to run from this checkout alone. `python preview.py` runs a self-contained contribution portal at http://127.0.0.1:8850. This portal is separate from the full atlas.
+Compare membership, collective decisions, shared resources, geography and relations with states. Follow the source references before treating a project statement as an established fact.
 
-Validate submissions: `python scripts/validate_submissions.py`. GitHub CI is not enabled: the current GitHub authorization lacks the `workflow` scope. A workflow draft is retained locally; validation and publication are currently manual.
+## Research scope
 
-## Research method
+The website's published research snapshot contains **166 records**:
 
-Maintain source-specific records instead of overwriting conflicts. Distinguish planned, historical, active and virtual nodes. Never invent coordinates. "Network state" is a project/category label, not recognition. An editor may decline, relabel or remove a record with reasons; disputes can be raised as issues or by email.
+| Section | Records |
+|---|---:|
+| Main catalog | 126 |
+| Archive | 4 |
+| Status unconfirmed | 36 |
 
-## Licenses and policy
+Archive does not necessarily mean a community has disappeared. Unconfirmed does not mean closed. Map markers may represent approximate areas or historical sites, not current headquarters or borders.
 
-See [RIGHTS.md](RIGHTS.md), [PRIVACY.md](PRIVACY.md), [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md). Legal text is operational guidance, not a legal opinion or immunity from claims.
+> [!IMPORTANT]
+> This is a selected research snapshot, not a worldwide census or a list of recognised sovereign states. Source claims and current activity are not all independently verified. **MIT covers original code, not the entire dataset or third-party media.**
+
+The repository's legacy research snapshot and source index are separate from the website's current publication selection. See [DATASET-SCOPE.md](DATASET-SCOPE.md) for their contents and limits.
+
+## Quick start
+
+**To browse projects, use the [live atlas](https://polis-network-atlas.vercel.app).**
+
+To run the self-contained contribution portal locally, install Python 3 and Git, then:
+
+```bash
+git clone https://github.com/AzamatSafarov/civitas-atlas.git
+cd civitas-atlas
+python preview.py
+```
+
+Open **http://127.0.0.1:8850**. No Python packages or API keys are required for this portal.
+
+Validate original submissions with:
+
+```bash
+python scripts/validate_submissions.py
+```
+
+<details>
+<summary><strong>What this checkout runs</strong></summary>
+
+The contribution portal is separate from the complete live atlas. This repository contains frontend files, a legacy research snapshot and contribution tools, but not every production vendor or media asset. A checkout is not a complete reproduction of the live globe. Production publication and submission validation are currently manual.
+
+</details>
+
+## Repository guide
+
+```text
+civitas-atlas/
+├── assets/                       # README artwork and share card
+├── data/
+│   ├── community-submissions.json # Original submissions awaiting review
+│   └── source-index.json          # Legacy source-reference index
+├── portal/                       # Standalone contribution portal
+├── scripts/validate_submissions.py
+├── combined-v3.json              # Legacy research snapshot, not blanket open data
+├── preview.py                    # Local contribution-portal server
+├── DATASET-SCOPE.md              # Snapshot boundaries and record counts
+├── CONTRIBUTING.md               # Submission and review requirements
+├── RIGHTS.md                     # Attribution, permissions and rights requests
+└── README.md
+```
+
+## Contributing
+
+**[Suggest a project](https://github.com/AzamatSafarov/civitas-atlas/issues/new?template=project.yml)** or [report a correction](https://github.com/AzamatSafarov/civitas-atlas/issues/new).
+
+Provide an official website, an original description, a location or explicit virtual status, and supporting sources. You can also open a pull request against `data/community-submissions.json`. See the [contribution guide](CONTRIBUTING.md) for the required fields.
+
+**Submission → source and rights review → editorial decision → manual publication.** Acceptance is not automatic, and it does not establish statehood. Do not submit private personal data, credentials, copied promotional text or unlicensed images.
+
+## Project status
+
+- [x] Public research atlas and source-linked project profiles
+- [x] Search and geographic browsing on the website
+- [x] GitHub project-submission form and local validation tool
+- [ ] Ongoing source, activity and rights review
+- [ ] Automatic production deployment from this repository
+
+## Rights and contact
+
+| Material | Terms |
+|---|---|
+| Original project code | [MIT](LICENSE) |
+| Authorised original community submissions | CC BY 4.0, with contributor attribution |
+| Legacy records, third-party descriptions, photographs and symbols | Upstream rights; no blanket reuse permission established |
+
+See [Rights](RIGHTS.md), [Privacy](PRIVACY.md) and [Security](SECURITY.md). This project is independent and does not imply endorsement by listed organisations. It provides no legal, investment or immigration advice.
+
+**Press, corrections and rights requests:** [akutagavasora777@gmail.com](mailto:akutagavasora777@gmail.com) · [Telegram](https://t.me/Azamat_Safar0v)
+
+---
+
+<div align="center">
+
+**Research and interface by [Azamat Safarov](https://github.com/AzamatSafarov)**
+
+[Visit CIVITAS ATLAS](https://polis-network-atlas.vercel.app) - [Read in Russian](README.ru.md)
+
+</div>
