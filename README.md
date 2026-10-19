@@ -83,7 +83,9 @@ The contribution portal is separate from the complete live atlas. This repositor
 
 ```text
 civitas-atlas/
-├── assets/                       # README artwork and share card
+├── assets/
+│   ├── readme-*.svg, social-preview.*  # README artwork and share card
+│   └── wikimedia/                      # Permissively licensed symbols (CC BY-SA, public domain)
 ├── data/
 │   ├── community-submissions.json # Original submissions awaiting review
 │   └── source-index.json          # Legacy source-reference index
@@ -96,6 +98,11 @@ civitas-atlas/
 ├── RIGHTS.md                     # Attribution, permissions and rights requests
 └── README.md
 ```
+
+Record media under `media/` are referenced by `combined-v3.json` but are not
+committed: their redistribution rights are not established. Only assets with a
+free licence are committed, under `assets/wikimedia/`. Each record keeps the
+original source URL of every image it references.
 
 ## Contributing
 

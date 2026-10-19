@@ -1,3 +1,7 @@
+/* Long Wikimedia credits must wrap inside profile columns. */
+.layout>div{min-width:0}.pad figure{margin:16px 0}.pad figcaption,.pad .resource,.pad .source{overflow-wrap:anywhere;word-break:break-word}.pad figure img{max-width:100%!important}
+/* Consistent softened corners on desktop and mobile. */
+.hero{border-radius:16px;overflow:hidden}.feature,.box,.contribute{border-radius:12px;overflow:hidden}.entry,.coverage{border-radius:10px}.gallery img{border-radius:8px}button,.button,.tools input,.tools select{border-radius:8px}#worldmap button{border-radius:8px}.chip,.notice{border-radius:6px}dialog{border-radius:14px}
 /* Mobile layouts: compact navigation, readable profiles, touch globe. */
 @media(max-width:700px){
  header{padding:16px;gap:16px;align-items:flex-start}header .brand{font-size:21px;letter-spacing:.7px}.brand-symbol{width:35px;height:35px}header>div:last-child{width:100%;display:grid;grid-template-columns:1fr 1fr 1.4fr;gap:7px}header .button,header button{width:100%;min-height:42px;font-size:11px;padding:8px 6px}
